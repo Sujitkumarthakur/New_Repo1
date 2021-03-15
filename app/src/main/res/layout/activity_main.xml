@@ -16,6 +16,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World_11 and even Hello World_1!"
+        android:textStyle="bold"
          />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4th Commit"
+        android:textStyle="italic"
+        />
 
 </LinearLayout>
